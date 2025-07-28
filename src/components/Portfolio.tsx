@@ -66,7 +66,7 @@ const Portfolio = () => {
                 />
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
+                {/*<div className="absolute bottom-0 left-0 right-0 p-6 text-white">
                   <span className="inline-block px-3 py-1 bg-orange-500 text-xs font-semibold rounded-full mb-2">
                     {project.category}
                   </span>
@@ -76,7 +76,7 @@ const Portfolio = () => {
                     <ExternalLink size={16} />
                     Ver detalhes
                   </button>
-                </div>
+                </div>*/}
               </div>
               <div className="bg-white p-6">
                 <span className="inline-block px-3 py-1 bg-orange-100 text-orange-500 text-xs font-semibold rounded-full mb-2">
